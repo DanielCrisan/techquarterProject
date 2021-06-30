@@ -1,0 +1,30 @@
+.profile-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 12vh 12vh 12vh 12vh 3vh 5vh 12vh 5vh;
+}
+
+.profile-form-item {
+    justify-content: center;
+    align-content: center;
+    padding: 5px 12px;
+}
+
+.line {
+    grid-area: 5 / 1 / span 1 / span 3;
+}
+
+.change-password-title {
+    grid-area: 6 / 1 / span 1 / span 3;
+}
+
+.change-password-label {
+    font-size: 20px;
+}
+
+.save-changes-button-container {
+    display: flex;
+    justify-content: flex-end;
+    grid-area: 8 / 1 / span 1 / span 3;
+    padding-right: 13px;
+}

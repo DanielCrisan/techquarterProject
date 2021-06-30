@@ -1,0 +1,39 @@
+.body {
+    font-family: var(--main-font);
+    margin: 0px;
+    padding: 0px;
+}
+
+.grid-container {
+    display: grid;
+}
+
+.profile-container {
+    padding: 25px;
+}
+
+.image-grid {
+    display: grid;
+    grid-template-rows: 11vh 5vh 5vh 5vh 5vh;
+}
+
+.cover {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.profile-cell {
+    display: flex;
+    justify-content: center;
+    grid-area: 2 / 1 / span 4 / span 1;
+}
+
+.profile-picture {
+    border: 3px solid rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    top: 5%;
+}

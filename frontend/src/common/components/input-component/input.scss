@@ -1,0 +1,45 @@
+.login-form-label {
+    display: block;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.login-form-input {
+    font-size: 15px;
+    width: 59%;
+    background-color: var(--main-gray-color);
+    border-radius: 10px;
+    padding: 16px 14px;
+    border-style: none;
+    outline: none;
+    font-weight: bold;
+}
+
+.user-profile-form-input {
+    border-style: none;
+    border-radius: 10px;
+    outline: none;
+    box-sizing: border-box;
+    background-color: var(--main-gray-color);
+    min-height: 40px;
+    width: 100%;
+    text-indent: 10px;
+    font-weight: bold;
+    font-size: 13px;
+    color: var(--black-color);
+    margin-top: 10px;
+}
+
+.eye-slash {
+    border-style: none;
+    margin-left: -38px;
+}
+
+.eye-slash:hover {
+    svg>g>g {
+        fill: var(--red-color);
+    }
+}

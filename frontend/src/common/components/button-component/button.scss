@@ -1,0 +1,62 @@
+.login-button {
+    background-color: var(--main-yellow-color);
+    border-style: none;
+    padding: 15px 80px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 105%;
+    text-align: center;
+    margin-top: 30px;
+    width: 64%;
+}
+
+.menu-button {
+    display: flex;
+    color: #BCC1CB;
+    border: none;
+    margin: 20px 15px;
+    background-color: var(--main-gray-color);
+    font-weight: bold;
+    font-size: 17px;
+    transition: all 0.5s;
+}
+
+.menu-button:hover {
+    color: var(--black-color);
+    background: linear-gradient(0deg, var(--main-yellow-color) 50%, transparent 40%);
+}
+
+.button-icon {
+    color: black;
+    margin-right: 10px;
+}
+
+.logout-button {
+    align-self: flex-start;
+    justify-self: center;
+    margin-top: auto;
+}
+
+.edit-button {
+    width: 40px;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: 105px;
+    border-radius: 50%;
+    border-style: none;
+    background-color: var(--main-yellow-color);
+}
+
+.edit-button:hover {
+    background-color: var(--hover-yellor-color);
+}
+
+.save-changes-button {
+    background-color: var(--main-yellow-color);
+    border-style: none;
+    border-radius: 10px;
+    width: 170px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bolder;
+}

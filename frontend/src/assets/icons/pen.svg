@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="15px" viewBox="0 0 14 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pen</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="14" font-weight="normal">
+        <g id="Profile-Page" transform="translate(-902.000000, -292.000000)" fill="#2C2C2C">
+            <g id="edit-btn" transform="translate(889.000000, 280.000000)">
+                <text id="pen">
+                    <tspan x="13" y="25">pen</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

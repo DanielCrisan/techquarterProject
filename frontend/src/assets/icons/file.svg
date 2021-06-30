@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>file</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="18" font-weight="normal">
+        <g id="Profile-Page" transform="translate(-42.000000, -281.000000)" fill="#ACB2BF">
+            <g id="side-menu" transform="translate(-1.000000, 70.000000)">
+                <g id="4" transform="translate(43.500000, 210.000000)">
+                    <text id="file">
+                        <tspan x="0.25" y="17">file</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

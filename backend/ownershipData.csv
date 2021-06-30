@@ -1,0 +1,6 @@
+residenceId,leadId,isOwner
+1,1,true
+2,2,true
+3,2,true
+3,3,false
+4,3,true

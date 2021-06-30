@@ -1,0 +1,10 @@
+.header-container {
+    display: grid;
+    grid-area: 1 / 1 / span 1 / span 5;
+    background-color: var(--main-yellow-color);
+    padding: 15px 20px;
+}
+
+.header-icon {
+    height: 35px;
+}

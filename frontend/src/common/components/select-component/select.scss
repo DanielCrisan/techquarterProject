@@ -1,0 +1,26 @@
+.form-item {
+    justify-content: center;
+    align-content: center;
+    padding: 5px 12px;
+}
+
+.form-label {
+    font-size: 13px;
+    text-indent: 50px;
+    font-weight: bold;
+}
+
+.user-profile-form-input {
+    border-style: none;
+    border-radius: 10px;
+    outline: none;
+    box-sizing: border-box;
+    background-color: var(--main-gray-color);
+    min-height: 40px;
+    width: 100%;
+    text-indent: 10px;
+    font-weight: bold;
+    font-size: 13px;
+    color: var(--black-color);
+    margin-top: 10px;
+}

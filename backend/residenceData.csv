@@ -1,0 +1,5 @@
+LocationID,StandardizedAddress,City,ZipCode,State,Latitude,Longitude,People,HomeBuildYear,HomeValue,LandSquareFootage,EffectiveHomeSize
+1,2800 SW 2nd Ave,Miami,33129,Florida,25.75295914,-80.20921685,Will Smith,1942,"869000",2000,"1848"
+2,9301 N Bayshore Dr hehehehe,Miami,33138,Florida,25.86143545,-80.17148944,"Michael Burry, Sophia Black",1955,"4000000",4225,2432
+3,9301 N Bayshore Dr,Miami,33138,Florida,25.86143545,-80.17148944,"Michael Burry, Sophia Black",1955,"4000000",4225,2432
+4,8042 Rahke Rd,Indianopolis,46077,Indiana,39.64835635,-86.16842409,Jim Carrey,1957,99600,3500,"2570"

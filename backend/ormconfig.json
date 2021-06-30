@@ -1,0 +1,20 @@
+{
+    "type": "sqlite",
+    "database": "team3_database.sqlite",
+    "synchronize": true,
+    "logging": false,
+    "entities": [
+        "compiled/ds/models/**/*.js"
+    ],
+    "migrations": [
+        "compiled/ds/migration/**/*.js"
+    ],
+    "subscribers": [
+        "compiled/ds/subscriber/**/*.js"
+    ],
+    "cli": {
+        "entitiesDir": "compiled/ds/models",
+        "migrationsDir": "compiled/ds/migration",
+        "subscribersDir": "compiled/ds/subscriber"
+    }
+}

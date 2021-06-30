@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="12px" viewBox="0 0 17 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>eye</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="FontAwesome5Pro-Regular, Font Awesome 5 Pro" font-size="15" font-weight="normal">
+        <g id="Profile-Page" transform="translate(-672.000000, -858.000000)" fill="#2C2C2C">
+            <g id="inputs" transform="translate(434.000000, 816.000000)">
+                <g id="input" transform="translate(0.000000, 28.000000)">
+                    <text id="eye">
+                        <tspan x="238.125" y="26">eye</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

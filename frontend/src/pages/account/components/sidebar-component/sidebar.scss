@@ -1,0 +1,11 @@
+.sidebar-container {
+    display: grid;
+    padding: 15px;
+    background-color: #F2F4F6;
+    overflow: hidden;
+}
+
+.sidebar-inner-container {
+    display: flex;
+    flex-direction: column;
+}
